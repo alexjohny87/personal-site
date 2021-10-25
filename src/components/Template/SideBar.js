@@ -20,7 +20,7 @@ const SideBar = () => (
     <section className="blurb">
       <ul className="actions">
         <li>
-          <Link to="/contact" className="button">Learn More</Link>
+          <Link to="/contact" className="button">Contact Me</Link>
         </li>
       </ul>
     </section>

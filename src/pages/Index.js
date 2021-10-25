@@ -27,7 +27,7 @@ const Index = () => (
       </p>
       <p>
         I&apos;m a huge fan of reading the news, and follow both global and local politics closely.
-        My hobbies are playing basketball, pottery, binging Youtube videos, and hiking.
+        My hobbies are playing basketball, making pottery, binging Youtube videos, and hiking.
       </p>
       <p>
         Feel free to <Link to="/contact">contact</Link> me if you have any questions or just want to say hello!

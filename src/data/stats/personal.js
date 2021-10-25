@@ -25,12 +25,6 @@ const data = [
     value: <Age />,
   },
   {
-    key: 'national_parks',
-    label: 'National Parks Visited',
-    value: 6,
-    // link: 'https://www.google.com/maps/d/embed?mid=1iBBTscqateQ93pWFVfHCUZXoDu8&z=2',
-  },
-  {
     key: 'location',
     label: 'Current city',
     value: 'New York, NY',
@@ -39,6 +33,12 @@ const data = [
     key: 'states',
     label: 'US States Visited',
     value: 21,
+  },
+  {
+    key: 'national_parks',
+    label: 'National Parks Visited',
+    value: 6,
+    // link: 'https://www.google.com/maps/d/embed?mid=1iBBTscqateQ93pWFVfHCUZXoDu8&z=2',
   },
 ];
 
