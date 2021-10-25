@@ -1,24 +1,27 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-
 import Main from '../layouts/Main';
 
 import Personal from '../components/Stats/Personal';
-import Site from '../components/Stats/Site';
+import MarkedUSMap from '../components/Stats/MapChart';
+import PhotoGrid from '../components/About/PhotoGrid';
+// import Site from '../components/Stats/Site';
 
 const Stats = () => (
   <Main
-    title="Stats"
-    description="Some statistics about Michael D'Angelo and mldangelo.com"
+    title="Random thing about me"
+    description="Some statistics about Alex"
   >
     <article className="post" id="stats">
       <header>
         <div className="title">
-          <h2 data-testid="heading"><Link to="/stats">Stats</Link></h2>
+          <h2 data-testid="heading"><Link to="/about">Random stuff about me</Link></h2>
         </div>
       </header>
       <Personal />
-      <Site />
+      <PhotoGrid />
+      <MarkedUSMap />
+      {/* <Site /> */}
     </article>
   </Main>
 );
