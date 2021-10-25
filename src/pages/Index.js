@@ -23,7 +23,8 @@ const Index = () => (
         I&apos;m a UMD alum 🐢 who&apos;s currently a software engineer at <a href="https://squareup.com">Square</a>. Before Square I was
         at <a href="https://www.goldmansachs.com/">Goldman Sachs</a>
         , <a href="https://facebook.com">Facebook</a>,
-        and <a href="https://boozallen.com">Booz Allen Hamilton</a>. I&apos;m passionate about building high impact products and new things.
+        and <a href="https://boozallen.com">Booz Allen Hamilton</a>. I&apos;m passionate about building high impact products that
+        widen user acccessibility and make everyday tasks easier.
       </p>
       <p>
         I&apos;m a huge fan of reading the news, and follow both global and local politics closely.
